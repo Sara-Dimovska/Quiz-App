@@ -1,5 +1,5 @@
 # Quiz-App
-android application 1 from the book "The Big Nerd Ranch guide"
+Android application 1 from the book "The Big Nerd Ranch guide"
 
 throughout building this first apps I have learned about:
 
