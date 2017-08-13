@@ -1,7 +1,7 @@
 # Quiz-App
 Android application 1 from the book "The Big Nerd Ranch guide"
 
-building this app included knowledge of:
+through building this app, the book provided knowledge of:
 
 - activity lifecycles
 - handling listeners
